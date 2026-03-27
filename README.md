@@ -1,6 +1,11 @@
 # 💫 About Me:
-I'm Ayush Srivastava and I'm pursuing my B-Tech in Computer Science and Engineering.<br>I have skilled in MERN Stack , with hand's on experience. Also I have a strong command on problem solving (DSA).<br>Now I'm looking for job role as a developer to build something new and collaborate with others.
+Ayush Srivastava | MERN Stack Developer
 
+🎓 B.Tech in Computer Science & Engineering  
+💻 Full-Stack Developer (MERN) with practical project experience  
+🧠 Strong problem-solving skills with solid DSA knowledge  
+
+🚀 Actively seeking developer roles to build impactful applications, collaborate with teams, and continuously improve technical skills.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayushsrivastava05/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ayushsrivastavak05@gmail.com) 
